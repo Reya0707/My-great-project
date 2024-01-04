@@ -1,4 +1,12 @@
  h1 {
     text-align: center;
-    color: red;
+    color: rgb(60, 0, 255);
+  }
+
+  .learn-github {
+    text-align: center;
+    display: block;
+    font-size: 35px;
+    text-decoration: underline;
+     color: rgb(60, 0, 255)
   }
